@@ -1,0 +1,8 @@
+* {margin:0;padding:0}
+.header {border-bottom:1px solid #ededed}
+.header .inner {position:relative;margin:0 auto;width:1024px;height:64px;}
+.header .logo {display:inline-block;padding:12px 0}
+.header .logo img {width:120px;vertical-align:top}
+.header .btn {position:absolute;top:12px;right:0}
+.content {margin:0 auto;width:1024px}
+.footer {height:200px}
